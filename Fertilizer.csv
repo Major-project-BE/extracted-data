@@ -1,0 +1,1844 @@
+Sample,Phosphorus (P),Potassium (K),Nitrogen (N)
+Rice,80,40,40
+Jowar(Sorghum),80,40,40
+Barley(JAV),70,40,45
+Maize,80,40,20
+Ragi( naachnnii),50,40,20
+Chickpeas(Channa),40,60,80
+French Beans(Farasbi),90,125,60
+Fava beans (Papdi - Val),90,125,60
+Lima beans(Pavta),40,60,20
+Cluster Beans(Gavar),25,50,25
+Soyabean,20,60,20
+Black eyed beans( chawli),20,60,20
+Kidney beans,20,60,20
+pigeon peas(Toor Dal),20,60,20
+Moth bean(Matki),20,40,20
+Mung beans,20,40,20
+Green Peas,40,35,55
+Horse Gram(kulthi),20,60,20
+Black Gram,40,60,20
+Rapeseed (Mohri),50,40,20
+Coriander seeds,90,20,20
+Mustard seeds,100,30,15
+sesame seed,30,15,30
+Cumin seeds,90,60,20
+Lentils(Masoor Dal),20,60,20
+Brinjal,80,15,40
+Beetroot,120,50,100
+Bitter Gourd,60,10,20
+Bottle Gourd,100,50,50
+Capsicum,100,20,60
+Cabbage,100,65,70
+Carrot,40,45,60
+Cauliflower,80,70,50
+Cucumber,60,60,85
+Coriander leaves,10,20,20
+Curry leaves,20,20,20
+Drumstick – moringa,40,20,10
+Chili,120,20,80
+Lady Finger,80,10,40
+Mushroom,100,50,60
+Onion,120,60,65
+Potato,180,60,90
+Pumpkin,80,50,30
+Radish,25,100,50
+Olive,100,60,30
+Sweet Potato,90,20,120
+Fenugreek Leaf(methi),30,25,40
+Spinach,60,60,50
+Ridgegourd,90,50,20
+Gooseberry(Amla),20,50,20
+Jambun(Syzygium cumini),10,10,10
+Ziziphus mauritiana(Bor),20,10,10
+Garcinia indica(kokam),40,25,50
+Tamarind,20,15,25
+Tapioca(Suran),50,50,50
+Garlic,50,10,60
+Lemon,20,10,10
+Tomato,100,40,90
+Ash Gourd,60,10,30
+Pineapple,160,40,120
+Pomegranate,20,10,40
+Banana,100,75,50
+Mango,20,20,30
+Grapes,20,125,200
+Jackfruit,75,40,50
+Guava,50,50,50
+Water Melon,100,10,50
+Musk Melon,100,10,50
+Apricot,40,50,25
+Apple,20,125,200
+Chickoo,40,30,60
+Custard apple,40,20,40
+Dates,40,125,20
+Figs,20,60,20
+Orange,20,10,10
+Papaya,50,50,50
+Aniseed,100,50,20
+Asafoetida,90,40,20
+Bay Leaf,100,50,25
+Black Pepper,100,60,50
+Cardamom,75,75,150
+Cinnamon,20,20,25
+Cloves,20,20,60
+Jaiphal(Nutmeg),20,20,60
+Ginger,40,50,20
+Turmeric,25,60,100
+Cashewnuts,70,40,60
+Raisins,60,30,30
+Coconut,20,10,30
+Almond Nut,70,20,10
+Arecanut,100,40,140
+Pistachio Nut,90,20,20
+Lemon Grass,25,40,40
+Cotton,120,40,20
+Jute,80,40,40
+Coffee,100,20,30
+Sunflower,50,60,30
+Rice,80,40,40
+Jowar(Sorghum),80,40,40
+Barley(JAV),70,40,45
+Maize,80,40,20
+Ragi( naachnnii),50,40,20
+Chickpeas(Channa),40,60,80
+French Beans(Farasbi),90,125,60
+Fava beans (Papdi - Val),90,125,60
+Lima beans(Pavta),40,60,20
+Cluster Beans(Gavar),25,50,25
+Soyabean,20,60,20
+Black eyed beans( chawli),20,60,20
+Kidney beans,20,60,20
+pigeon peas(Toor Dal),20,60,20
+Moth bean(Matki),20,40,20
+Mung beans,20,40,20
+Green Peas,40,35,55
+Horse Gram(kulthi),20,60,20
+Black Gram,40,60,20
+Rapeseed (Mohri),50,40,20
+Coriander seeds,90,20,20
+Mustard seeds,100,30,15
+sesame seed,30,15,30
+Cumin seeds,90,60,20
+Lentils(Masoor Dal),20,60,20
+Brinjal,80,15,40
+Beetroot,120,50,100
+Bitter Gourd,60,10,20
+Bottle Gourd,100,50,50
+Capsicum,100,20,60
+Cabbage,100,65,70
+Carrot,40,45,60
+Cauliflower,80,70,50
+Cucumber,60,60,85
+Coriander leaves,10,20,20
+Curry leaves,20,20,20
+Drumstick – moringa,40,20,10
+Chili,120,20,80
+Lady Finger,80,10,40
+Mushroom,100,50,60
+Onion,120,60,65
+Potato,180,60,90
+Pumpkin,80,50,30
+Radish,25,100,50
+Olive,100,60,30
+Sweet Potato,90,20,120
+Fenugreek Leaf(methi),30,25,40
+Spinach,60,60,50
+Ridgegourd,90,50,20
+Gooseberry(Amla),20,50,20
+Jambun(Syzygium cumini),10,10,10
+Ziziphus mauritiana(Bor),20,10,10
+Garcinia indica(kokam),40,25,50
+Tamarind,20,15,25
+Tapioca(Suran),50,50,50
+Garlic,50,10,60
+Lemon,20,10,10
+Tomato,100,40,90
+Ash Gourd,60,10,30
+Pineapple,160,40,120
+Pomegranate,20,10,40
+Banana,100,75,50
+Mango,20,20,30
+Grapes,20,125,200
+Jackfruit,75,40,50
+Guava,50,50,50
+Water Melon,100,10,50
+Musk Melon,100,10,50
+Apricot,40,50,25
+Apple,20,125,200
+Chickoo,40,30,60
+Custard apple,40,20,40
+Dates,40,125,20
+Figs,20,60,20
+Orange,20,10,10
+Papaya,50,50,50
+Aniseed,100,50,20
+Asafoetida,90,40,20
+Bay Leaf,100,50,25
+Black Pepper,100,60,50
+Cardamom,75,75,150
+Cinnamon,20,20,25
+Cloves,20,20,60
+Jaiphal(Nutmeg),20,20,60
+Ginger,40,50,20
+Turmeric,25,60,100
+Cashewnuts,70,40,60
+Raisins,60,30,30
+Coconut,20,10,30
+Almond Nut,70,20,10
+Arecanut,100,40,140
+Pistachio Nut,90,20,20
+Lemon Grass,25,40,40
+Cotton,120,40,20
+Jute,80,40,40
+Coffee,100,20,30
+Sunflower,50,60,30
+Rice,80,40,40
+Jowar(Sorghum),80,40,40
+Barley(JAV),70,40,45
+Maize,80,40,20
+Ragi( naachnnii),50,40,20
+Chickpeas(Channa),40,60,80
+French Beans(Farasbi),90,125,60
+Fava beans (Papdi - Val),90,125,60
+Lima beans(Pavta),40,60,20
+Cluster Beans(Gavar),25,50,25
+Soyabean,20,60,20
+Black eyed beans( chawli),20,60,20
+Kidney beans,20,60,20
+pigeon peas(Toor Dal),20,60,20
+Moth bean(Matki),20,40,20
+Mung beans,20,40,20
+Green Peas,40,35,55
+Horse Gram(kulthi),20,60,20
+Black Gram,40,60,20
+Rapeseed (Mohri),50,40,20
+Coriander seeds,90,20,20
+Mustard seeds,100,30,15
+sesame seed,30,15,30
+Cumin seeds,90,60,20
+Lentils(Masoor Dal),20,60,20
+Brinjal,80,15,40
+Beetroot,120,50,100
+Bitter Gourd,60,10,20
+Bottle Gourd,100,50,50
+Capsicum,100,20,60
+Cabbage,100,65,70
+Carrot,40,45,60
+Cauliflower,80,70,50
+Cucumber,60,60,85
+Coriander leaves,10,20,20
+Curry leaves,20,20,20
+Drumstick – moringa,40,20,10
+Chili,120,20,80
+Lady Finger,80,10,40
+Mushroom,100,50,60
+Onion,120,60,65
+Potato,180,60,90
+Pumpkin,80,50,30
+Radish,25,100,50
+Olive,100,60,30
+Sweet Potato,90,20,120
+Fenugreek Leaf(methi),30,25,40
+Spinach,60,60,50
+Ridgegourd,90,50,20
+Gooseberry(Amla),20,50,20
+Jambun(Syzygium cumini),10,10,10
+Ziziphus mauritiana(Bor),20,10,10
+Garcinia indica(kokam),40,25,50
+Tamarind,20,15,25
+Tapioca(Suran),50,50,50
+Garlic,50,10,60
+Lemon,20,10,10
+Tomato,100,40,90
+Ash Gourd,60,10,30
+Pineapple,160,40,120
+Pomegranate,20,10,40
+Banana,100,75,50
+Mango,20,20,30
+Grapes,20,125,200
+Jackfruit,75,40,50
+Guava,50,50,50
+Water Melon,100,10,50
+Musk Melon,100,10,50
+Apricot,40,50,25
+Apple,20,125,200
+Chickoo,40,30,60
+Custard apple,40,20,40
+Dates,40,125,20
+Figs,20,60,20
+Orange,20,10,10
+Papaya,50,50,50
+Aniseed,100,50,20
+Asafoetida,90,40,20
+Bay Leaf,100,50,25
+Black Pepper,100,60,50
+Cardamom,75,75,150
+Cinnamon,20,20,25
+Cloves,20,20,60
+Jaiphal(Nutmeg),20,20,60
+Ginger,40,50,20
+Turmeric,25,60,100
+Cashewnuts,70,40,60
+Raisins,60,30,30
+Coconut,20,10,30
+Almond Nut,70,20,10
+Arecanut,100,40,140
+Pistachio Nut,90,20,20
+Lemon Grass,25,40,40
+Cotton,120,40,20
+Jute,80,40,40
+Coffee,100,20,30
+Sunflower,50,60,30
+Rice,80,40,40
+Jowar(Sorghum),80,40,40
+Barley(JAV),70,40,45
+Maize,80,40,20
+Ragi( naachnnii),50,40,20
+Chickpeas(Channa),40,60,80
+French Beans(Farasbi),90,125,60
+Fava beans (Papdi - Val),90,125,60
+Lima beans(Pavta),40,60,20
+Cluster Beans(Gavar),25,50,25
+Soyabean,20,60,20
+Black eyed beans( chawli),20,60,20
+Kidney beans,20,60,20
+pigeon peas(Toor Dal),20,60,20
+Moth bean(Matki),20,40,20
+Mung beans,20,40,20
+Green Peas,40,35,55
+Horse Gram(kulthi),20,60,20
+Black Gram,40,60,20
+Rapeseed (Mohri),50,40,20
+Coriander seeds,90,20,20
+Mustard seeds,100,30,15
+sesame seed,30,15,30
+Cumin seeds,90,60,20
+Lentils(Masoor Dal),20,60,20
+Brinjal,80,15,40
+Beetroot,120,50,100
+Bitter Gourd,60,10,20
+Bottle Gourd,100,50,50
+Capsicum,100,20,60
+Cabbage,100,65,70
+Carrot,40,45,60
+Cauliflower,80,70,50
+Cucumber,60,60,85
+Coriander leaves,10,20,20
+Curry leaves,20,20,20
+Drumstick – moringa,40,20,10
+Chili,120,20,80
+Lady Finger,80,10,40
+Mushroom,100,50,60
+Onion,120,60,65
+Potato,180,60,90
+Pumpkin,80,50,30
+Radish,25,100,50
+Olive,100,60,30
+Sweet Potato,90,20,120
+Fenugreek Leaf(methi),30,25,40
+Spinach,60,60,50
+Ridgegourd,90,50,20
+Gooseberry(Amla),20,50,20
+Jambun(Syzygium cumini),10,10,10
+Ziziphus mauritiana(Bor),20,10,10
+Garcinia indica(kokam),40,25,50
+Tamarind,20,15,25
+Tapioca(Suran),50,50,50
+Garlic,50,10,60
+Lemon,20,10,10
+Tomato,100,40,90
+Ash Gourd,60,10,30
+Pineapple,160,40,120
+Pomegranate,20,10,40
+Banana,100,75,50
+Mango,20,20,30
+Grapes,20,125,200
+Jackfruit,75,40,50
+Guava,50,50,50
+Water Melon,100,10,50
+Musk Melon,100,10,50
+Apricot,40,50,25
+Apple,20,125,200
+Chickoo,40,30,60
+Custard apple,40,20,40
+Dates,40,125,20
+Figs,20,60,20
+Orange,20,10,10
+Papaya,50,50,50
+Aniseed,100,50,20
+Asafoetida,90,40,20
+Bay Leaf,100,50,25
+Black Pepper,100,60,50
+Cardamom,75,75,150
+Cinnamon,20,20,25
+Cloves,20,20,60
+Jaiphal(Nutmeg),20,20,60
+Ginger,40,50,20
+Turmeric,25,60,100
+Cashewnuts,70,40,60
+Raisins,60,30,30
+Coconut,20,10,30
+Almond Nut,70,20,10
+Arecanut,100,40,140
+Pistachio Nut,90,20,20
+Lemon Grass,25,40,40
+Cotton,120,40,20
+Jute,80,40,40
+Coffee,100,20,30
+Sunflower,50,60,30
+Rice,80,40,40
+Jowar(Sorghum),80,40,40
+Barley(JAV),70,40,45
+Maize,80,40,20
+Ragi( naachnnii),50,40,20
+Chickpeas(Channa),40,60,80
+French Beans(Farasbi),90,125,60
+Fava beans (Papdi - Val),90,125,60
+Lima beans(Pavta),40,60,20
+Cluster Beans(Gavar),25,50,25
+Soyabean,20,60,20
+Black eyed beans( chawli),20,60,20
+Kidney beans,20,60,20
+pigeon peas(Toor Dal),20,60,20
+Moth bean(Matki),20,40,20
+Mung beans,20,40,20
+Green Peas,40,35,55
+Horse Gram(kulthi),20,60,20
+Black Gram,40,60,20
+Rapeseed (Mohri),50,40,20
+Coriander seeds,90,20,20
+Mustard seeds,100,30,15
+sesame seed,30,15,30
+Cumin seeds,90,60,20
+Lentils(Masoor Dal),20,60,20
+Brinjal,80,15,40
+Beetroot,120,50,100
+Bitter Gourd,60,10,20
+Bottle Gourd,100,50,50
+Capsicum,100,20,60
+Cabbage,100,65,70
+Carrot,40,45,60
+Cauliflower,80,70,50
+Cucumber,60,60,85
+Coriander leaves,10,20,20
+Curry leaves,20,20,20
+Drumstick – moringa,40,20,10
+Chili,120,20,80
+Lady Finger,80,10,40
+Mushroom,100,50,60
+Onion,120,60,65
+Potato,180,60,90
+Pumpkin,80,50,30
+Radish,25,100,50
+Olive,100,60,30
+Sweet Potato,90,20,120
+Fenugreek Leaf(methi),30,25,40
+Spinach,60,60,50
+Ridgegourd,90,50,20
+Gooseberry(Amla),20,50,20
+Jambun(Syzygium cumini),10,10,10
+Ziziphus mauritiana(Bor),20,10,10
+Garcinia indica(kokam),40,25,50
+Tamarind,20,15,25
+Tapioca(Suran),50,50,50
+Garlic,50,10,60
+Lemon,20,10,10
+Tomato,100,40,90
+Ash Gourd,60,10,30
+Pineapple,160,40,120
+Pomegranate,20,10,40
+Banana,100,75,50
+Mango,20,20,30
+Grapes,20,125,200
+Jackfruit,75,40,50
+Guava,50,50,50
+Water Melon,100,10,50
+Musk Melon,100,10,50
+Apricot,40,50,25
+Apple,20,125,200
+Chickoo,40,30,60
+Custard apple,40,20,40
+Dates,40,125,20
+Figs,20,60,20
+Orange,20,10,10
+Papaya,50,50,50
+Aniseed,100,50,20
+Asafoetida,90,40,20
+Bay Leaf,100,50,25
+Black Pepper,100,60,50
+Cardamom,75,75,150
+Cinnamon,20,20,25
+Cloves,20,20,60
+Jaiphal(Nutmeg),20,20,60
+Ginger,40,50,20
+Turmeric,25,60,100
+Cashewnuts,70,40,60
+Raisins,60,30,30
+Coconut,20,10,30
+Almond Nut,70,20,10
+Arecanut,100,40,140
+Pistachio Nut,90,20,20
+Lemon Grass,25,40,40
+Cotton,120,40,20
+Jute,80,40,40
+Coffee,100,20,30
+Sunflower,50,60,30
+Rice,80,40,40
+Jowar(Sorghum),80,40,40
+Barley(JAV),70,40,45
+Maize,80,40,20
+Ragi( naachnnii),50,40,20
+Chickpeas(Channa),40,60,80
+French Beans(Farasbi),90,125,60
+Fava beans (Papdi - Val),90,125,60
+Lima beans(Pavta),40,60,20
+Cluster Beans(Gavar),25,50,25
+Soyabean,20,60,20
+Black eyed beans( chawli),20,60,20
+Kidney beans,20,60,20
+pigeon peas(Toor Dal),20,60,20
+Moth bean(Matki),20,40,20
+Mung beans,20,40,20
+Green Peas,40,35,55
+Horse Gram(kulthi),20,60,20
+Black Gram,40,60,20
+Rapeseed (Mohri),50,40,20
+Coriander seeds,90,20,20
+Mustard seeds,100,30,15
+sesame seed,30,15,30
+Cumin seeds,90,60,20
+Lentils(Masoor Dal),20,60,20
+Brinjal,80,15,40
+Beetroot,120,50,100
+Bitter Gourd,60,10,20
+Bottle Gourd,100,50,50
+Capsicum,100,20,60
+Cabbage,100,65,70
+Carrot,40,45,60
+Cauliflower,80,70,50
+Cucumber,60,60,85
+Coriander leaves,10,20,20
+Curry leaves,20,20,20
+Drumstick – moringa,40,20,10
+Chili,120,20,80
+Lady Finger,80,10,40
+Mushroom,100,50,60
+Onion,120,60,65
+Potato,180,60,90
+Pumpkin,80,50,30
+Radish,25,100,50
+Olive,100,60,30
+Sweet Potato,90,20,120
+Fenugreek Leaf(methi),30,25,40
+Spinach,60,60,50
+Ridgegourd,90,50,20
+Gooseberry(Amla),20,50,20
+Jambun(Syzygium cumini),10,10,10
+Ziziphus mauritiana(Bor),20,10,10
+Garcinia indica(kokam),40,25,50
+Tamarind,20,15,25
+Tapioca(Suran),50,50,50
+Garlic,50,10,60
+Lemon,20,10,10
+Tomato,100,40,90
+Ash Gourd,60,10,30
+Pineapple,160,40,120
+Pomegranate,20,10,40
+Banana,100,75,50
+Mango,20,20,30
+Grapes,20,125,200
+Jackfruit,75,40,50
+Guava,50,50,50
+Water Melon,100,10,50
+Musk Melon,100,10,50
+Apricot,40,50,25
+Apple,20,125,200
+Chickoo,40,30,60
+Custard apple,40,20,40
+Dates,40,125,20
+Figs,20,60,20
+Orange,20,10,10
+Papaya,50,50,50
+Aniseed,100,50,20
+Asafoetida,90,40,20
+Bay Leaf,100,50,25
+Black Pepper,100,60,50
+Cardamom,75,75,150
+Cinnamon,20,20,25
+Cloves,20,20,60
+Jaiphal(Nutmeg),20,20,60
+Ginger,40,50,20
+Turmeric,25,60,100
+Cashewnuts,70,40,60
+Raisins,60,30,30
+Coconut,20,10,30
+Almond Nut,70,20,10
+Arecanut,100,40,140
+Pistachio Nut,90,20,20
+Lemon Grass,25,40,40
+Cotton,120,40,20
+Jute,80,40,40
+Coffee,100,20,30
+Sunflower,50,60,30
+Rice,80,40,40
+Jowar(Sorghum),80,40,40
+Barley(JAV),70,40,45
+Maize,80,40,20
+Ragi( naachnnii),50,40,20
+Chickpeas(Channa),40,60,80
+French Beans(Farasbi),90,125,60
+Fava beans (Papdi - Val),90,125,60
+Lima beans(Pavta),40,60,20
+Cluster Beans(Gavar),25,50,25
+Soyabean,20,60,20
+Black eyed beans( chawli),20,60,20
+Kidney beans,20,60,20
+pigeon peas(Toor Dal),20,60,20
+Moth bean(Matki),20,40,20
+Mung beans,20,40,20
+Green Peas,40,35,55
+Horse Gram(kulthi),20,60,20
+Black Gram,40,60,20
+Rapeseed (Mohri),50,40,20
+Coriander seeds,90,20,20
+Mustard seeds,100,30,15
+sesame seed,30,15,30
+Cumin seeds,90,60,20
+Lentils(Masoor Dal),20,60,20
+Brinjal,80,15,40
+Beetroot,120,50,100
+Bitter Gourd,60,10,20
+Bottle Gourd,100,50,50
+Capsicum,100,20,60
+Cabbage,100,65,70
+Carrot,40,45,60
+Cauliflower,80,70,50
+Cucumber,60,60,85
+Coriander leaves,10,20,20
+Curry leaves,20,20,20
+Drumstick – moringa,40,20,10
+Chili,120,20,80
+Lady Finger,80,10,40
+Mushroom,100,50,60
+Onion,120,60,65
+Potato,180,60,90
+Pumpkin,80,50,30
+Radish,25,100,50
+Olive,100,60,30
+Sweet Potato,90,20,120
+Fenugreek Leaf(methi),30,25,40
+Spinach,60,60,50
+Ridgegourd,90,50,20
+Gooseberry(Amla),20,50,20
+Jambun(Syzygium cumini),10,10,10
+Ziziphus mauritiana(Bor),20,10,10
+Garcinia indica(kokam),40,25,50
+Tamarind,20,15,25
+Tapioca(Suran),50,50,50
+Garlic,50,10,60
+Lemon,20,10,10
+Tomato,100,40,90
+Ash Gourd,60,10,30
+Pineapple,160,40,120
+Pomegranate,20,10,40
+Banana,100,75,50
+Mango,20,20,30
+Grapes,20,125,200
+Jackfruit,75,40,50
+Guava,50,50,50
+Water Melon,100,10,50
+Musk Melon,100,10,50
+Apricot,40,50,25
+Apple,20,125,200
+Chickoo,40,30,60
+Custard apple,40,20,40
+Dates,40,125,20
+Figs,20,60,20
+Orange,20,10,10
+Papaya,50,50,50
+Aniseed,100,50,20
+Asafoetida,90,40,20
+Bay Leaf,100,50,25
+Black Pepper,100,60,50
+Cardamom,75,75,150
+Cinnamon,20,20,25
+Cloves,20,20,60
+Jaiphal(Nutmeg),20,20,60
+Ginger,40,50,20
+Turmeric,25,60,100
+Cashewnuts,70,40,60
+Raisins,60,30,30
+Coconut,20,10,30
+Almond Nut,70,20,10
+Arecanut,100,40,140
+Pistachio Nut,90,20,20
+Lemon Grass,25,40,40
+Cotton,120,40,20
+Jute,80,40,40
+Coffee,100,20,30
+Sunflower,50,60,30
+Rice,80,40,40
+Jowar(Sorghum),80,40,40
+Barley(JAV),70,40,45
+Maize,80,40,20
+Ragi( naachnnii),50,40,20
+Chickpeas(Channa),40,60,80
+French Beans(Farasbi),90,125,60
+Fava beans (Papdi - Val),90,125,60
+Lima beans(Pavta),40,60,20
+Cluster Beans(Gavar),25,50,25
+Soyabean,20,60,20
+Black eyed beans( chawli),20,60,20
+Kidney beans,20,60,20
+pigeon peas(Toor Dal),20,60,20
+Moth bean(Matki),20,40,20
+Mung beans,20,40,20
+Green Peas,40,35,55
+Horse Gram(kulthi),20,60,20
+Black Gram,40,60,20
+Rapeseed (Mohri),50,40,20
+Coriander seeds,90,20,20
+Mustard seeds,100,30,15
+sesame seed,30,15,30
+Cumin seeds,90,60,20
+Lentils(Masoor Dal),20,60,20
+Brinjal,80,15,40
+Beetroot,120,50,100
+Bitter Gourd,60,10,20
+Bottle Gourd,100,50,50
+Capsicum,100,20,60
+Cabbage,100,65,70
+Carrot,40,45,60
+Cauliflower,80,70,50
+Cucumber,60,60,85
+Coriander leaves,10,20,20
+Curry leaves,20,20,20
+Drumstick – moringa,40,20,10
+Chili,120,20,80
+Lady Finger,80,10,40
+Mushroom,100,50,60
+Onion,120,60,65
+Potato,180,60,90
+Pumpkin,80,50,30
+Radish,25,100,50
+Olive,100,60,30
+Sweet Potato,90,20,120
+Fenugreek Leaf(methi),30,25,40
+Spinach,60,60,50
+Ridgegourd,90,50,20
+Gooseberry(Amla),20,50,20
+Jambun(Syzygium cumini),10,10,10
+Ziziphus mauritiana(Bor),20,10,10
+Garcinia indica(kokam),40,25,50
+Tamarind,20,15,25
+Tapioca(Suran),50,50,50
+Garlic,50,10,60
+Lemon,20,10,10
+Tomato,100,40,90
+Ash Gourd,60,10,30
+Pineapple,160,40,120
+Pomegranate,20,10,40
+Banana,100,75,50
+Mango,20,20,30
+Grapes,20,125,200
+Jackfruit,75,40,50
+Guava,50,50,50
+Water Melon,100,10,50
+Musk Melon,100,10,50
+Apricot,40,50,25
+Apple,20,125,200
+Chickoo,40,30,60
+Custard apple,40,20,40
+Dates,40,125,20
+Figs,20,60,20
+Orange,20,10,10
+Papaya,50,50,50
+Aniseed,100,50,20
+Asafoetida,90,40,20
+Bay Leaf,100,50,25
+Black Pepper,100,60,50
+Cardamom,75,75,150
+Cinnamon,20,20,25
+Cloves,20,20,60
+Jaiphal(Nutmeg),20,20,60
+Ginger,40,50,20
+Turmeric,25,60,100
+Cashewnuts,70,40,60
+Raisins,60,30,30
+Coconut,20,10,30
+Almond Nut,70,20,10
+Arecanut,100,40,140
+Pistachio Nut,90,20,20
+Lemon Grass,25,40,40
+Cotton,120,40,20
+Jute,80,40,40
+Coffee,100,20,30
+Sunflower,50,60,30
+Rice,80,40,40
+Jowar(Sorghum),80,40,40
+Barley(JAV),70,40,45
+Maize,80,40,20
+Ragi( naachnnii),50,40,20
+Chickpeas(Channa),40,60,80
+French Beans(Farasbi),90,125,60
+Fava beans (Papdi - Val),90,125,60
+Lima beans(Pavta),40,60,20
+Cluster Beans(Gavar),25,50,25
+Soyabean,20,60,20
+Black eyed beans( chawli),20,60,20
+Kidney beans,20,60,20
+pigeon peas(Toor Dal),20,60,20
+Moth bean(Matki),20,40,20
+Mung beans,20,40,20
+Green Peas,40,35,55
+Horse Gram(kulthi),20,60,20
+Black Gram,40,60,20
+Rapeseed (Mohri),50,40,20
+Coriander seeds,90,20,20
+Mustard seeds,100,30,15
+sesame seed,30,15,30
+Cumin seeds,90,60,20
+Lentils(Masoor Dal),20,60,20
+Brinjal,80,15,40
+Beetroot,120,50,100
+Bitter Gourd,60,10,20
+Bottle Gourd,100,50,50
+Capsicum,100,20,60
+Cabbage,100,65,70
+Carrot,40,45,60
+Cauliflower,80,70,50
+Cucumber,60,60,85
+Coriander leaves,10,20,20
+Curry leaves,20,20,20
+Drumstick – moringa,40,20,10
+Chili,120,20,80
+Lady Finger,80,10,40
+Mushroom,100,50,60
+Onion,120,60,65
+Potato,180,60,90
+Pumpkin,80,50,30
+Radish,25,100,50
+Olive,100,60,30
+Sweet Potato,90,20,120
+Fenugreek Leaf(methi),30,25,40
+Spinach,60,60,50
+Ridgegourd,90,50,20
+Gooseberry(Amla),20,50,20
+Jambun(Syzygium cumini),10,10,10
+Ziziphus mauritiana(Bor),20,10,10
+Garcinia indica(kokam),40,25,50
+Tamarind,20,15,25
+Tapioca(Suran),50,50,50
+Garlic,50,10,60
+Lemon,20,10,10
+Tomato,100,40,90
+Ash Gourd,60,10,30
+Pineapple,160,40,120
+Pomegranate,20,10,40
+Banana,100,75,50
+Mango,20,20,30
+Grapes,20,125,200
+Jackfruit,75,40,50
+Guava,50,50,50
+Water Melon,100,10,50
+Musk Melon,100,10,50
+Apricot,40,50,25
+Apple,20,125,200
+Chickoo,40,30,60
+Custard apple,40,20,40
+Dates,40,125,20
+Figs,20,60,20
+Orange,20,10,10
+Papaya,50,50,50
+Aniseed,100,50,20
+Asafoetida,90,40,20
+Bay Leaf,100,50,25
+Black Pepper,100,60,50
+Cardamom,75,75,150
+Cinnamon,20,20,25
+Cloves,20,20,60
+Jaiphal(Nutmeg),20,20,60
+Ginger,40,50,20
+Turmeric,25,60,100
+Cashewnuts,70,40,60
+Raisins,60,30,30
+Coconut,20,10,30
+Almond Nut,70,20,10
+Arecanut,100,40,140
+Pistachio Nut,90,20,20
+Lemon Grass,25,40,40
+Cotton,120,40,20
+Jute,80,40,40
+Coffee,100,20,30
+Sunflower,50,60,30
+Rice,80,40,40
+Jowar(Sorghum),80,40,40
+Barley(JAV),70,40,45
+Maize,80,40,20
+Ragi( naachnnii),50,40,20
+Chickpeas(Channa),40,60,80
+French Beans(Farasbi),90,125,60
+Fava beans (Papdi - Val),90,125,60
+Lima beans(Pavta),40,60,20
+Cluster Beans(Gavar),25,50,25
+Soyabean,20,60,20
+Black eyed beans( chawli),20,60,20
+Kidney beans,20,60,20
+pigeon peas(Toor Dal),20,60,20
+Moth bean(Matki),20,40,20
+Mung beans,20,40,20
+Green Peas,40,35,55
+Horse Gram(kulthi),20,60,20
+Black Gram,40,60,20
+Rapeseed (Mohri),50,40,20
+Coriander seeds,90,20,20
+Mustard seeds,100,30,15
+sesame seed,30,15,30
+Cumin seeds,90,60,20
+Lentils(Masoor Dal),20,60,20
+Brinjal,80,15,40
+Beetroot,120,50,100
+Bitter Gourd,60,10,20
+Bottle Gourd,100,50,50
+Capsicum,100,20,60
+Cabbage,100,65,70
+Carrot,40,45,60
+Cauliflower,80,70,50
+Cucumber,60,60,85
+Coriander leaves,10,20,20
+Curry leaves,20,20,20
+Drumstick – moringa,40,20,10
+Chili,120,20,80
+Lady Finger,80,10,40
+Mushroom,100,50,60
+Onion,120,60,65
+Potato,180,60,90
+Pumpkin,80,50,30
+Radish,25,100,50
+Olive,100,60,30
+Sweet Potato,90,20,120
+Fenugreek Leaf(methi),30,25,40
+Spinach,60,60,50
+Ridgegourd,90,50,20
+Gooseberry(Amla),20,50,20
+Jambun(Syzygium cumini),10,10,10
+Ziziphus mauritiana(Bor),20,10,10
+Garcinia indica(kokam),40,25,50
+Tamarind,20,15,25
+Tapioca(Suran),50,50,50
+Garlic,50,10,60
+Lemon,20,10,10
+Tomato,100,40,90
+Ash Gourd,60,10,30
+Pineapple,160,40,120
+Pomegranate,20,10,40
+Banana,100,75,50
+Mango,20,20,30
+Grapes,20,125,200
+Jackfruit,75,40,50
+Guava,50,50,50
+Water Melon,100,10,50
+Musk Melon,100,10,50
+Apricot,40,50,25
+Apple,20,125,200
+Chickoo,40,30,60
+Custard apple,40,20,40
+Dates,40,125,20
+Figs,20,60,20
+Orange,20,10,10
+Papaya,50,50,50
+Aniseed,100,50,20
+Asafoetida,90,40,20
+Bay Leaf,100,50,25
+Black Pepper,100,60,50
+Cardamom,75,75,150
+Cinnamon,20,20,25
+Cloves,20,20,60
+Jaiphal(Nutmeg),20,20,60
+Ginger,40,50,20
+Turmeric,25,60,100
+Cashewnuts,70,40,60
+Raisins,60,30,30
+Coconut,20,10,30
+Almond Nut,70,20,10
+Arecanut,100,40,140
+Pistachio Nut,90,20,20
+Lemon Grass,25,40,40
+Cotton,120,40,20
+Jute,80,40,40
+Coffee,100,20,30
+Sunflower,50,60,30
+Rice,80,40,40
+Jowar(Sorghum),80,40,40
+Barley(JAV),70,40,45
+Maize,80,40,20
+Ragi( naachnnii),50,40,20
+Chickpeas(Channa),40,60,80
+French Beans(Farasbi),90,125,60
+Fava beans (Papdi - Val),90,125,60
+Lima beans(Pavta),40,60,20
+Cluster Beans(Gavar),25,50,25
+Soyabean,20,60,20
+Black eyed beans( chawli),20,60,20
+Kidney beans,20,60,20
+pigeon peas(Toor Dal),20,60,20
+Moth bean(Matki),20,40,20
+Mung beans,20,40,20
+Green Peas,40,35,55
+Horse Gram(kulthi),20,60,20
+Black Gram,40,60,20
+Rapeseed (Mohri),50,40,20
+Coriander seeds,90,20,20
+Mustard seeds,100,30,15
+sesame seed,30,15,30
+Cumin seeds,90,60,20
+Lentils(Masoor Dal),20,60,20
+Brinjal,80,15,40
+Beetroot,120,50,100
+Bitter Gourd,60,10,20
+Bottle Gourd,100,50,50
+Capsicum,100,20,60
+Cabbage,100,65,70
+Carrot,40,45,60
+Cauliflower,80,70,50
+Cucumber,60,60,85
+Coriander leaves,10,20,20
+Curry leaves,20,20,20
+Drumstick – moringa,40,20,10
+Chili,120,20,80
+Lady Finger,80,10,40
+Mushroom,100,50,60
+Onion,120,60,65
+Potato,180,60,90
+Pumpkin,80,50,30
+Radish,25,100,50
+Olive,100,60,30
+Sweet Potato,90,20,120
+Fenugreek Leaf(methi),30,25,40
+Spinach,60,60,50
+Ridgegourd,90,50,20
+Gooseberry(Amla),20,50,20
+Jambun(Syzygium cumini),10,10,10
+Ziziphus mauritiana(Bor),20,10,10
+Garcinia indica(kokam),40,25,50
+Tamarind,20,15,25
+Tapioca(Suran),50,50,50
+Garlic,50,10,60
+Lemon,20,10,10
+Tomato,100,40,90
+Ash Gourd,60,10,30
+Pineapple,160,40,120
+Pomegranate,20,10,40
+Banana,100,75,50
+Mango,20,20,30
+Grapes,20,125,200
+Jackfruit,75,40,50
+Guava,50,50,50
+Water Melon,100,10,50
+Musk Melon,100,10,50
+Apricot,40,50,25
+Apple,20,125,200
+Chickoo,40,30,60
+Custard apple,40,20,40
+Dates,40,125,20
+Figs,20,60,20
+Orange,20,10,10
+Papaya,50,50,50
+Aniseed,100,50,20
+Asafoetida,90,40,20
+Bay Leaf,100,50,25
+Black Pepper,100,60,50
+Cardamom,75,75,150
+Cinnamon,20,20,25
+Cloves,20,20,60
+Jaiphal(Nutmeg),20,20,60
+Ginger,40,50,20
+Turmeric,25,60,100
+Cashewnuts,70,40,60
+Raisins,60,30,30
+Coconut,20,10,30
+Almond Nut,70,20,10
+Arecanut,100,40,140
+Pistachio Nut,90,20,20
+Lemon Grass,25,40,40
+Cotton,120,40,20
+Jute,80,40,40
+Coffee,100,20,30
+Sunflower,50,60,30
+Rice,80,40,40
+Jowar(Sorghum),80,40,40
+Barley(JAV),70,40,45
+Maize,80,40,20
+Ragi( naachnnii),50,40,20
+Chickpeas(Channa),40,60,80
+French Beans(Farasbi),90,125,60
+Fava beans (Papdi - Val),90,125,60
+Lima beans(Pavta),40,60,20
+Cluster Beans(Gavar),25,50,25
+Soyabean,20,60,20
+Black eyed beans( chawli),20,60,20
+Kidney beans,20,60,20
+pigeon peas(Toor Dal),20,60,20
+Moth bean(Matki),20,40,20
+Mung beans,20,40,20
+Green Peas,40,35,55
+Horse Gram(kulthi),20,60,20
+Black Gram,40,60,20
+Rapeseed (Mohri),50,40,20
+Coriander seeds,90,20,20
+Mustard seeds,100,30,15
+sesame seed,30,15,30
+Cumin seeds,90,60,20
+Lentils(Masoor Dal),20,60,20
+Brinjal,80,15,40
+Beetroot,120,50,100
+Bitter Gourd,60,10,20
+Bottle Gourd,100,50,50
+Capsicum,100,20,60
+Cabbage,100,65,70
+Carrot,40,45,60
+Cauliflower,80,70,50
+Cucumber,60,60,85
+Coriander leaves,10,20,20
+Curry leaves,20,20,20
+Drumstick – moringa,40,20,10
+Chili,120,20,80
+Lady Finger,80,10,40
+Mushroom,100,50,60
+Onion,120,60,65
+Potato,180,60,90
+Pumpkin,80,50,30
+Radish,25,100,50
+Olive,100,60,30
+Sweet Potato,90,20,120
+Fenugreek Leaf(methi),30,25,40
+Spinach,60,60,50
+Ridgegourd,90,50,20
+Gooseberry(Amla),20,50,20
+Jambun(Syzygium cumini),10,10,10
+Ziziphus mauritiana(Bor),20,10,10
+Garcinia indica(kokam),40,25,50
+Tamarind,20,15,25
+Tapioca(Suran),50,50,50
+Garlic,50,10,60
+Lemon,20,10,10
+Tomato,100,40,90
+Ash Gourd,60,10,30
+Pineapple,160,40,120
+Pomegranate,20,10,40
+Banana,100,75,50
+Mango,20,20,30
+Grapes,20,125,200
+Jackfruit,75,40,50
+Guava,50,50,50
+Water Melon,100,10,50
+Musk Melon,100,10,50
+Apricot,40,50,25
+Apple,20,125,200
+Chickoo,40,30,60
+Custard apple,40,20,40
+Dates,40,125,20
+Figs,20,60,20
+Orange,20,10,10
+Papaya,50,50,50
+Aniseed,100,50,20
+Asafoetida,90,40,20
+Bay Leaf,100,50,25
+Black Pepper,100,60,50
+Cardamom,75,75,150
+Cinnamon,20,20,25
+Cloves,20,20,60
+Jaiphal(Nutmeg),20,20,60
+Ginger,40,50,20
+Turmeric,25,60,100
+Cashewnuts,70,40,60
+Raisins,60,30,30
+Coconut,20,10,30
+Almond Nut,70,20,10
+Arecanut,100,40,140
+Pistachio Nut,90,20,20
+Lemon Grass,25,40,40
+Cotton,120,40,20
+Jute,80,40,40
+Coffee,100,20,30
+Sunflower,50,60,30
+Rice,80,40,40
+Jowar(Sorghum),80,40,40
+Barley(JAV),70,40,45
+Maize,80,40,20
+Ragi( naachnnii),50,40,20
+Chickpeas(Channa),40,60,80
+French Beans(Farasbi),90,125,60
+Fava beans (Papdi - Val),90,125,60
+Lima beans(Pavta),40,60,20
+Cluster Beans(Gavar),25,50,25
+Soyabean,20,60,20
+Black eyed beans( chawli),20,60,20
+Kidney beans,20,60,20
+pigeon peas(Toor Dal),20,60,20
+Moth bean(Matki),20,40,20
+Mung beans,20,40,20
+Green Peas,40,35,55
+Horse Gram(kulthi),20,60,20
+Black Gram,40,60,20
+Rapeseed (Mohri),50,40,20
+Coriander seeds,90,20,20
+Mustard seeds,100,30,15
+sesame seed,30,15,30
+Cumin seeds,90,60,20
+Lentils(Masoor Dal),20,60,20
+Brinjal,80,15,40
+Beetroot,120,50,100
+Bitter Gourd,60,10,20
+Bottle Gourd,100,50,50
+Capsicum,100,20,60
+Cabbage,100,65,70
+Carrot,40,45,60
+Cauliflower,80,70,50
+Cucumber,60,60,85
+Coriander leaves,10,20,20
+Curry leaves,20,20,20
+Drumstick – moringa,40,20,10
+Chili,120,20,80
+Lady Finger,80,10,40
+Mushroom,100,50,60
+Onion,120,60,65
+Potato,180,60,90
+Pumpkin,80,50,30
+Radish,25,100,50
+Olive,100,60,30
+Sweet Potato,90,20,120
+Fenugreek Leaf(methi),30,25,40
+Spinach,60,60,50
+Ridgegourd,90,50,20
+Gooseberry(Amla),20,50,20
+Jambun(Syzygium cumini),10,10,10
+Ziziphus mauritiana(Bor),20,10,10
+Garcinia indica(kokam),40,25,50
+Tamarind,20,15,25
+Tapioca(Suran),50,50,50
+Garlic,50,10,60
+Lemon,20,10,10
+Tomato,100,40,90
+Ash Gourd,60,10,30
+Pineapple,160,40,120
+Pomegranate,20,10,40
+Banana,100,75,50
+Mango,20,20,30
+Grapes,20,125,200
+Jackfruit,75,40,50
+Guava,50,50,50
+Water Melon,100,10,50
+Musk Melon,100,10,50
+Apricot,40,50,25
+Apple,20,125,200
+Chickoo,40,30,60
+Custard apple,40,20,40
+Dates,40,125,20
+Figs,20,60,20
+Orange,20,10,10
+Papaya,50,50,50
+Aniseed,100,50,20
+Asafoetida,90,40,20
+Bay Leaf,100,50,25
+Black Pepper,100,60,50
+Cardamom,75,75,150
+Cinnamon,20,20,25
+Cloves,20,20,60
+Jaiphal(Nutmeg),20,20,60
+Ginger,40,50,20
+Turmeric,25,60,100
+Cashewnuts,70,40,60
+Raisins,60,30,30
+Coconut,20,10,30
+Almond Nut,70,20,10
+Arecanut,100,40,140
+Pistachio Nut,90,20,20
+Lemon Grass,25,40,40
+Cotton,120,40,20
+Jute,80,40,40
+Coffee,100,20,30
+Sunflower,50,60,30
+Rice,80,40,40
+Jowar(Sorghum),80,40,40
+Barley(JAV),70,40,45
+Maize,80,40,20
+Ragi( naachnnii),50,40,20
+Chickpeas(Channa),40,60,80
+French Beans(Farasbi),90,125,60
+Fava beans (Papdi - Val),90,125,60
+Lima beans(Pavta),40,60,20
+Cluster Beans(Gavar),25,50,25
+Soyabean,20,60,20
+Black eyed beans( chawli),20,60,20
+Kidney beans,20,60,20
+pigeon peas(Toor Dal),20,60,20
+Moth bean(Matki),20,40,20
+Mung beans,20,40,20
+Green Peas,40,35,55
+Horse Gram(kulthi),20,60,20
+Black Gram,40,60,20
+Rapeseed (Mohri),50,40,20
+Coriander seeds,90,20,20
+Mustard seeds,100,30,15
+sesame seed,30,15,30
+Cumin seeds,90,60,20
+Lentils(Masoor Dal),20,60,20
+Brinjal,80,15,40
+Beetroot,120,50,100
+Bitter Gourd,60,10,20
+Bottle Gourd,100,50,50
+Capsicum,100,20,60
+Cabbage,100,65,70
+Carrot,40,45,60
+Cauliflower,80,70,50
+Cucumber,60,60,85
+Coriander leaves,10,20,20
+Curry leaves,20,20,20
+Drumstick – moringa,40,20,10
+Chili,120,20,80
+Lady Finger,80,10,40
+Mushroom,100,50,60
+Onion,120,60,65
+Potato,180,60,90
+Pumpkin,80,50,30
+Radish,25,100,50
+Olive,100,60,30
+Sweet Potato,90,20,120
+Fenugreek Leaf(methi),30,25,40
+Spinach,60,60,50
+Ridgegourd,90,50,20
+Gooseberry(Amla),20,50,20
+Jambun(Syzygium cumini),10,10,10
+Ziziphus mauritiana(Bor),20,10,10
+Garcinia indica(kokam),40,25,50
+Tamarind,20,15,25
+Tapioca(Suran),50,50,50
+Garlic,50,10,60
+Lemon,20,10,10
+Tomato,100,40,90
+Ash Gourd,60,10,30
+Pineapple,160,40,120
+Pomegranate,20,10,40
+Banana,100,75,50
+Mango,20,20,30
+Grapes,20,125,200
+Jackfruit,75,40,50
+Guava,50,50,50
+Water Melon,100,10,50
+Musk Melon,100,10,50
+Apricot,40,50,25
+Apple,20,125,200
+Chickoo,40,30,60
+Custard apple,40,20,40
+Dates,40,125,20
+Figs,20,60,20
+Orange,20,10,10
+Papaya,50,50,50
+Aniseed,100,50,20
+Asafoetida,90,40,20
+Bay Leaf,100,50,25
+Black Pepper,100,60,50
+Cardamom,75,75,150
+Cinnamon,20,20,25
+Cloves,20,20,60
+Jaiphal(Nutmeg),20,20,60
+Ginger,40,50,20
+Turmeric,25,60,100
+Cashewnuts,70,40,60
+Raisins,60,30,30
+Coconut,20,10,30
+Almond Nut,70,20,10
+Arecanut,100,40,140
+Pistachio Nut,90,20,20
+Lemon Grass,25,40,40
+Cotton,120,40,20
+Jute,80,40,40
+Coffee,100,20,30
+Sunflower,50,60,30
+Rice,80,40,40
+Jowar(Sorghum),80,40,40
+Barley(JAV),70,40,45
+Maize,80,40,20
+Ragi( naachnnii),50,40,20
+Chickpeas(Channa),40,60,80
+French Beans(Farasbi),90,125,60
+Fava beans (Papdi - Val),90,125,60
+Lima beans(Pavta),40,60,20
+Cluster Beans(Gavar),25,50,25
+Soyabean,20,60,20
+Black eyed beans( chawli),20,60,20
+Kidney beans,20,60,20
+pigeon peas(Toor Dal),20,60,20
+Moth bean(Matki),20,40,20
+Mung beans,20,40,20
+Green Peas,40,35,55
+Horse Gram(kulthi),20,60,20
+Black Gram,40,60,20
+Rapeseed (Mohri),50,40,20
+Coriander seeds,90,20,20
+Mustard seeds,100,30,15
+sesame seed,30,15,30
+Cumin seeds,90,60,20
+Lentils(Masoor Dal),20,60,20
+Brinjal,80,15,40
+Beetroot,120,50,100
+Bitter Gourd,60,10,20
+Bottle Gourd,100,50,50
+Capsicum,100,20,60
+Cabbage,100,65,70
+Carrot,40,45,60
+Cauliflower,80,70,50
+Cucumber,60,60,85
+Coriander leaves,10,20,20
+Curry leaves,20,20,20
+Drumstick – moringa,40,20,10
+Chili,120,20,80
+Lady Finger,80,10,40
+Mushroom,100,50,60
+Onion,120,60,65
+Potato,180,60,90
+Pumpkin,80,50,30
+Radish,25,100,50
+Olive,100,60,30
+Sweet Potato,90,20,120
+Fenugreek Leaf(methi),30,25,40
+Spinach,60,60,50
+Ridgegourd,90,50,20
+Gooseberry(Amla),20,50,20
+Jambun(Syzygium cumini),10,10,10
+Ziziphus mauritiana(Bor),20,10,10
+Garcinia indica(kokam),40,25,50
+Tamarind,20,15,25
+Tapioca(Suran),50,50,50
+Garlic,50,10,60
+Lemon,20,10,10
+Tomato,100,40,90
+Ash Gourd,60,10,30
+Pineapple,160,40,120
+Pomegranate,20,10,40
+Banana,100,75,50
+Mango,20,20,30
+Grapes,20,125,200
+Jackfruit,75,40,50
+Guava,50,50,50
+Water Melon,100,10,50
+Musk Melon,100,10,50
+Apricot,40,50,25
+Apple,20,125,200
+Chickoo,40,30,60
+Custard apple,40,20,40
+Dates,40,125,20
+Figs,20,60,20
+Orange,20,10,10
+Papaya,50,50,50
+Aniseed,100,50,20
+Asafoetida,90,40,20
+Bay Leaf,100,50,25
+Black Pepper,100,60,50
+Cardamom,75,75,150
+Cinnamon,20,20,25
+Cloves,20,20,60
+Jaiphal(Nutmeg),20,20,60
+Ginger,40,50,20
+Turmeric,25,60,100
+Cashewnuts,70,40,60
+Raisins,60,30,30
+Coconut,20,10,30
+Almond Nut,70,20,10
+Arecanut,100,40,140
+Pistachio Nut,90,20,20
+Lemon Grass,25,40,40
+Cotton,120,40,20
+Jute,80,40,40
+Coffee,100,20,30
+Sunflower,50,60,30
+Rice,80,40,40
+Jowar(Sorghum),80,40,40
+Barley(JAV),70,40,45
+Maize,80,40,20
+Ragi( naachnnii),50,40,20
+Chickpeas(Channa),40,60,80
+French Beans(Farasbi),90,125,60
+Fava beans (Papdi - Val),90,125,60
+Lima beans(Pavta),40,60,20
+Cluster Beans(Gavar),25,50,25
+Soyabean,20,60,20
+Black eyed beans( chawli),20,60,20
+Kidney beans,20,60,20
+pigeon peas(Toor Dal),20,60,20
+Moth bean(Matki),20,40,20
+Mung beans,20,40,20
+Green Peas,40,35,55
+Horse Gram(kulthi),20,60,20
+Black Gram,40,60,20
+Rapeseed (Mohri),50,40,20
+Coriander seeds,90,20,20
+Mustard seeds,100,30,15
+sesame seed,30,15,30
+Cumin seeds,90,60,20
+Lentils(Masoor Dal),20,60,20
+Brinjal,80,15,40
+Beetroot,120,50,100
+Bitter Gourd,60,10,20
+Bottle Gourd,100,50,50
+Capsicum,100,20,60
+Cabbage,100,65,70
+Carrot,40,45,60
+Cauliflower,80,70,50
+Cucumber,60,60,85
+Coriander leaves,10,20,20
+Curry leaves,20,20,20
+Drumstick – moringa,40,20,10
+Chili,120,20,80
+Lady Finger,80,10,40
+Mushroom,100,50,60
+Onion,120,60,65
+Potato,180,60,90
+Pumpkin,80,50,30
+Radish,25,100,50
+Olive,100,60,30
+Sweet Potato,90,20,120
+Fenugreek Leaf(methi),30,25,40
+Spinach,60,60,50
+Ridgegourd,90,50,20
+Gooseberry(Amla),20,50,20
+Jambun(Syzygium cumini),10,10,10
+Ziziphus mauritiana(Bor),20,10,10
+Garcinia indica(kokam),40,25,50
+Tamarind,20,15,25
+Tapioca(Suran),50,50,50
+Garlic,50,10,60
+Lemon,20,10,10
+Tomato,100,40,90
+Ash Gourd,60,10,30
+Pineapple,160,40,120
+Pomegranate,20,10,40
+Banana,100,75,50
+Mango,20,20,30
+Grapes,20,125,200
+Jackfruit,75,40,50
+Guava,50,50,50
+Water Melon,100,10,50
+Musk Melon,100,10,50
+Apricot,40,50,25
+Apple,20,125,200
+Chickoo,40,30,60
+Custard apple,40,20,40
+Dates,40,125,20
+Figs,20,60,20
+Orange,20,10,10
+Papaya,50,50,50
+Aniseed,100,50,20
+Asafoetida,90,40,20
+Bay Leaf,100,50,25
+Black Pepper,100,60,50
+Cardamom,75,75,150
+Cinnamon,20,20,25
+Cloves,20,20,60
+Jaiphal(Nutmeg),20,20,60
+Ginger,40,50,20
+Turmeric,25,60,100
+Cashewnuts,70,40,60
+Raisins,60,30,30
+Coconut,20,10,30
+Almond Nut,70,20,10
+Arecanut,100,40,140
+Pistachio Nut,90,20,20
+Lemon Grass,25,40,40
+Cotton,120,40,20
+Jute,80,40,40
+Coffee,100,20,30
+Sunflower,50,60,30
+Rice,80,40,40
+Jowar(Sorghum),80,40,40
+Barley(JAV),70,40,45
+Maize,80,40,20
+Ragi( naachnnii),50,40,20
+Chickpeas(Channa),40,60,80
+French Beans(Farasbi),90,125,60
+Fava beans (Papdi - Val),90,125,60
+Lima beans(Pavta),40,60,20
+Cluster Beans(Gavar),25,50,25
+Soyabean,20,60,20
+Black eyed beans( chawli),20,60,20
+Kidney beans,20,60,20
+pigeon peas(Toor Dal),20,60,20
+Moth bean(Matki),20,40,20
+Mung beans,20,40,20
+Green Peas,40,35,55
+Horse Gram(kulthi),20,60,20
+Black Gram,40,60,20
+Rapeseed (Mohri),50,40,20
+Coriander seeds,90,20,20
+Mustard seeds,100,30,15
+sesame seed,30,15,30
+Cumin seeds,90,60,20
+Lentils(Masoor Dal),20,60,20
+Brinjal,80,15,40
+Beetroot,120,50,100
+Bitter Gourd,60,10,20
+Bottle Gourd,100,50,50
+Capsicum,100,20,60
+Cabbage,100,65,70
+Carrot,40,45,60
+Cauliflower,80,70,50
+Cucumber,60,60,85
+Coriander leaves,10,20,20
+Curry leaves,20,20,20
+Drumstick – moringa,40,20,10
+Chili,120,20,80
+Lady Finger,80,10,40
+Mushroom,100,50,60
+Onion,120,60,65
+Potato,180,60,90
+Pumpkin,80,50,30
+Radish,25,100,50
+Olive,100,60,30
+Sweet Potato,90,20,120
+Fenugreek Leaf(methi),30,25,40
+Spinach,60,60,50
+Ridgegourd,90,50,20
+Gooseberry(Amla),20,50,20
+Jambun(Syzygium cumini),10,10,10
+Ziziphus mauritiana(Bor),20,10,10
+Garcinia indica(kokam),40,25,50
+Tamarind,20,15,25
+Tapioca(Suran),50,50,50
+Garlic,50,10,60
+Lemon,20,10,10
+Tomato,100,40,90
+Ash Gourd,60,10,30
+Pineapple,160,40,120
+Pomegranate,20,10,40
+Banana,100,75,50
+Mango,20,20,30
+Grapes,20,125,200
+Jackfruit,75,40,50
+Guava,50,50,50
+Water Melon,100,10,50
+Musk Melon,100,10,50
+Apricot,40,50,25
+Apple,20,125,200
+Chickoo,40,30,60
+Custard apple,40,20,40
+Dates,40,125,20
+Figs,20,60,20
+Orange,20,10,10
+Papaya,50,50,50
+Aniseed,100,50,20
+Asafoetida,90,40,20
+Bay Leaf,100,50,25
+Black Pepper,100,60,50
+Cardamom,75,75,150
+Cinnamon,20,20,25
+Cloves,20,20,60
+Jaiphal(Nutmeg),20,20,60
+Ginger,40,50,20
+Turmeric,25,60,100
+Cashewnuts,70,40,60
+Raisins,60,30,30
+Coconut,20,10,30
+Almond Nut,70,20,10
+Arecanut,100,40,140
+Pistachio Nut,90,20,20
+Lemon Grass,25,40,40
+Cotton,120,40,20
+Jute,80,40,40
+Coffee,100,20,30
+Sunflower,50,60,30
+Rice,80,40,40
+Jowar(Sorghum),80,40,40
+Barley(JAV),70,40,45
+Maize,80,40,20
+Ragi( naachnnii),50,40,20
+Chickpeas(Channa),40,60,80
+French Beans(Farasbi),90,125,60
+Fava beans (Papdi - Val),90,125,60
+Lima beans(Pavta),40,60,20
+Cluster Beans(Gavar),25,50,25
+Soyabean,20,60,20
+Black eyed beans( chawli),20,60,20
+Kidney beans,20,60,20
+pigeon peas(Toor Dal),20,60,20
+Moth bean(Matki),20,40,20
+Mung beans,20,40,20
+Green Peas,40,35,55
+Horse Gram(kulthi),20,60,20
+Black Gram,40,60,20
+Rapeseed (Mohri),50,40,20
+Coriander seeds,90,20,20
+Mustard seeds,100,30,15
+sesame seed,30,15,30
+Cumin seeds,90,60,20
+Lentils(Masoor Dal),20,60,20
+Brinjal,80,15,40
+Beetroot,120,50,100
+Bitter Gourd,60,10,20
+Bottle Gourd,100,50,50
+Capsicum,100,20,60
+Cabbage,100,65,70
+Carrot,40,45,60
+Cauliflower,80,70,50
+Cucumber,60,60,85
+Coriander leaves,10,20,20
+Curry leaves,20,20,20
+Drumstick – moringa,40,20,10
+Chili,120,20,80
+Lady Finger,80,10,40
+Mushroom,100,50,60
+Onion,120,60,65
+Potato,180,60,90
+Pumpkin,80,50,30
+Radish,25,100,50
+Olive,100,60,30
+Sweet Potato,90,20,120
+Fenugreek Leaf(methi),30,25,40
+Spinach,60,60,50
+Ridgegourd,90,50,20
+Gooseberry(Amla),20,50,20
+Jambun(Syzygium cumini),10,10,10
+Ziziphus mauritiana(Bor),20,10,10
+Garcinia indica(kokam),40,25,50
+Tamarind,20,15,25
+Tapioca(Suran),50,50,50
+Garlic,50,10,60
+Lemon,20,10,10
+Tomato,100,40,90
+Ash Gourd,60,10,30
+Pineapple,160,40,120
+Pomegranate,20,10,40
+Banana,100,75,50
+Mango,20,20,30
+Grapes,20,125,200
+Jackfruit,75,40,50
+Guava,50,50,50
+Water Melon,100,10,50
+Musk Melon,100,10,50
+Apricot,40,50,25
+Apple,20,125,200
+Chickoo,40,30,60
+Custard apple,40,20,40
+Dates,40,125,20
+Figs,20,60,20
+Orange,20,10,10
+Papaya,50,50,50
+Aniseed,100,50,20
+Asafoetida,90,40,20
+Bay Leaf,100,50,25
+Black Pepper,100,60,50
+Cardamom,75,75,150
+Cinnamon,20,20,25
+Cloves,20,20,60
+Jaiphal(Nutmeg),20,20,60
+Ginger,40,50,20
+Turmeric,25,60,100
+Cashewnuts,70,40,60
+Raisins,60,30,30
+Coconut,20,10,30
+Almond Nut,70,20,10
+Arecanut,100,40,140
+Pistachio Nut,90,20,20
+Lemon Grass,25,40,40
+Cotton,120,40,20
+Jute,80,40,40
+Coffee,100,20,30
+Sunflower,50,60,30
+Rice,80,40,40
+Jowar(Sorghum),80,40,40
+Barley(JAV),70,40,45
+Maize,80,40,20
+Ragi( naachnnii),50,40,20
+Chickpeas(Channa),40,60,80
+French Beans(Farasbi),90,125,60
+Fava beans (Papdi - Val),90,125,60
+Lima beans(Pavta),40,60,20
+Cluster Beans(Gavar),25,50,25
+Soyabean,20,60,20
+Black eyed beans( chawli),20,60,20
+Kidney beans,20,60,20
+pigeon peas(Toor Dal),20,60,20
+Moth bean(Matki),20,40,20
+Mung beans,20,40,20
+Green Peas,40,35,55
+Horse Gram(kulthi),20,60,20
+Black Gram,40,60,20
+Rapeseed (Mohri),50,40,20
+Coriander seeds,90,20,20
+Mustard seeds,100,30,15
+sesame seed,30,15,30
+Cumin seeds,90,60,20
+Lentils(Masoor Dal),20,60,20
+Brinjal,80,15,40
+Beetroot,120,50,100
+Bitter Gourd,60,10,20
+Bottle Gourd,100,50,50
+Capsicum,100,20,60
+Cabbage,100,65,70
+Carrot,40,45,60
+Cauliflower,80,70,50
+Cucumber,60,60,85
+Coriander leaves,10,20,20
+Curry leaves,20,20,20
+Drumstick – moringa,40,20,10
+Chili,120,20,80
+Lady Finger,80,10,40
+Mushroom,100,50,60
+Onion,120,60,65
+Potato,180,60,90
+Pumpkin,80,50,30
+Radish,25,100,50
+Olive,100,60,30
+Sweet Potato,90,20,120
+Fenugreek Leaf(methi),30,25,40
+Spinach,60,60,50
+Ridgegourd,90,50,20
+Gooseberry(Amla),20,50,20
+Jambun(Syzygium cumini),10,10,10
+Ziziphus mauritiana(Bor),20,10,10
+Garcinia indica(kokam),40,25,50
+Tamarind,20,15,25
+Tapioca(Suran),50,50,50
+Garlic,50,10,60
+Lemon,20,10,10
+Tomato,100,40,90
+Ash Gourd,60,10,30
+Pineapple,160,40,120
+Pomegranate,20,10,40
+Banana,100,75,50
+Mango,20,20,30
+Grapes,20,125,200
+Jackfruit,75,40,50
+Guava,50,50,50
+Water Melon,100,10,50
+Musk Melon,100,10,50
+Apricot,40,50,25
+Apple,20,125,200
+Chickoo,40,30,60
+Custard apple,40,20,40
+Dates,40,125,20
+Figs,20,60,20
+Orange,20,10,10
+Papaya,50,50,50
+Aniseed,100,50,20
+Asafoetida,90,40,20
+Bay Leaf,100,50,25
+Black Pepper,100,60,50
+Cardamom,75,75,150
+Cinnamon,20,20,25
+Cloves,20,20,60
+Jaiphal(Nutmeg),20,20,60
+Ginger,40,50,20
+Turmeric,25,60,100
+Cashewnuts,70,40,60
+Raisins,60,30,30
+Coconut,20,10,30
+Almond Nut,70,20,10
+Arecanut,100,40,140
+Pistachio Nut,90,20,20
+Lemon Grass,25,40,40
+Cotton,120,40,20
+Jute,80,40,40
+Coffee,100,20,30
+Sunflower,50,60,30
