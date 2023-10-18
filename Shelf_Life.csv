@@ -1,0 +1,23 @@
+Product,Category,Shelf Life (in days),Region,Temperature (°C),Humidity (%),Packaging
+Apples,Fruits,30,Various Regions,3-10°C,80-90%,Cardboard box, breathable plastic
+Bananas,Fruits,5,Various Regions,13-16°C,85-90%,Plastic bag
+Carrots,Vegetables,21,Various Regions,0-4°C,90-98%,Perforated plastic bags
+Chicken Eggs,Dairy,21,Various Regions,4-7°C,70-75%,Carton packaging
+Milk (pasteurized),Dairy,7,Various Regions,1-4°C,40-50%,Plastic jug
+Basmati Rice,Crops,365+,Various Regions,18-22°C,60-70%,Sealed in airtight containers
+Wheat,Crops,365+,Various Regions,12-20°C,12-14%,Silo storage
+Alphonso Mangoes,Fruits,5-7,Konkan,10-12°C,85-90%,Carton boxes
+Nagpur Oranges,Fruits,14-30,Vidarbha,10-15°C,70-80%,Wooden crates
+Pomegranates,Fruits,30-60,Western Maharashtra,7-10°C,80-90%,Perforated plastic packaging
+Grapes,Fruits,10-20,Western Maharashtra,8-15°C,75-85%,Clamshell containers
+Bharti Ghee,Dairy,60-90,Western Maharashtra,5-10°C,40-50%,Tin containers
+Jaggery,Crops,180,Marathwada,25-35°C,40-50%,Airtight packaging
+Kesar Mangoes,Fruits,5-7,Marathwada,12-15°C,70-80%,Carton boxes
+Green Peas,Vegetables,2-4,Various Regions,-1 to 4°C,90-95%,Vacuum-sealed bags
+Basa Fish,Seafood,5-7,Various Regions,-18 to -20°C,95-98%,Frozen packaging
+Cabbage,Vegetables,7-10,Various Regions,0-2°C,90-95%,Plastic wrap
+Paneer (Indian Cheese),Dairy,7-10,Various Regions,0-4°C,80-85%,Vacuum-sealed plastic
+Turmeric Powder,Spices,365+,Various Regions,Room Temperature,50-60%,Airtight containers
+Masoor Dal,Pulses,180,Various Regions,15-25°C,50-60%,Airtight bags
+Toor Dal,Pulses,180,Various Regions,15-25°C,50-60%,Airtight bags
+Urad Dal,Pulses,180,Various Regions,15-25°C,50-60%,Airtight bags
